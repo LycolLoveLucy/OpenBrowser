@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="OpenBrowser">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/OpenBrowser.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
